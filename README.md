@@ -1,4 +1,4 @@
-# A3.1 – SVM y Multiple Testing
+# SVM y Multiple Testing
 
 Este proyecto analiza datos de **expresión génica** de distintos tipos de cáncer utilizando métodos estadísticos y modelos de **Máquinas de Vectores de Soporte (SVM)**.  
 El objetivo es identificar genes diferencialmente expresados entre los tipos de cáncer y comparar el desempeño de tres kernels de SVM: **lineal**, **polinomial (grado 3)** y **radial (RBF)**.
